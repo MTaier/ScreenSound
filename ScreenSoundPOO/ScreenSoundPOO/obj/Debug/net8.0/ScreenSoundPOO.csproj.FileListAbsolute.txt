@@ -1,0 +1,14 @@
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.exe
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.deps.json
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.runtimeconfig.json
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.dll
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\bin\Debug\net8.0\ScreenSoundPOO.pdb
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.dll
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\refint\ScreenSoundPOO.dll
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.pdb
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ScreenSoundPOO.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Documentos\Projects\Projetos Pessoas\C#\ScreenSoundPOO\ScreenSoundPOO\obj\Debug\net8.0\ref\ScreenSoundPOO.dll
